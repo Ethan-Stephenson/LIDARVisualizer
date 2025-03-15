@@ -1,0 +1,3 @@
+/home/ethans/code/lidar/build/CMakeFiles/main.dir
+/home/ethans/code/lidar/build/CMakeFiles/edit_cache.dir
+/home/ethans/code/lidar/build/CMakeFiles/rebuild_cache.dir

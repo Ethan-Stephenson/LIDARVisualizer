@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.o -o main   -L/usr/local/lib  /usr/local/lib/libntcore.a -lglfw /usr/lib/x86_64-linux-gnu/libGL.so /usr/local/lib/libwpinet.a /usr/local/lib/libwpiutil.a -ldl /usr/lib/x86_64-linux-gnu/libatomic.so.1 
